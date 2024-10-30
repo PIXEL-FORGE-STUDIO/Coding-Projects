@@ -23,5 +23,5 @@ Current Main Projects:
 
 Links:
 
-markdown
-   [Downloads](downloads.html)
+[Downloads](downloads.html)
+[Social Links](links.html)
