@@ -4,18 +4,21 @@
   Schlxtzskyy
   And
   SharpShot404
+  
 -----------------------------------------
 
 We code in:
 
   Scratch,
   Python
+  
 -----------------------------------------
 
 Current Main Projects:
 
   Apocalyptic Adventure  [Python],
   Maze Game REBORN  [Scratch]
+  
 -----------------------------------------
 
 Links:
