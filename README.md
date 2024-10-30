@@ -5,9 +5,9 @@
   SharpShot404
 -----------------------------------------
 We code in:
-  Scratch
+  Scratch,
   Python
 -----------------------------------------
 Current Main Projects:
-  Apocalyptic Adventure  [Python]
+  Apocalyptic Adventure  [Python],
   Maze Game REBORN  [Scratch]
